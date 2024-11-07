@@ -16,4 +16,4 @@
 
 **👋 안녕하세요, 제 이름은 미카엘이에요!**
 
-**👋 Ciao, mi chiamo Mikael!**
+**👋 Ciao, mi chiamo mi kael!**
