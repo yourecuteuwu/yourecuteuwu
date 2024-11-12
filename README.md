@@ -1,6 +1,6 @@
 **👋 Hello, my name is mi kael!**
 
-**👋 Bonjour, je m'appelle mi kael !**
+**👋 Bonjour, je m'appelle mi kael!**
 
 **👋 ¡Hola, mi nombre es mi kael!**
 
